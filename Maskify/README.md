@@ -9,11 +9,11 @@ This script detects faces in an image using a Caffe model and predicts mask usag
 
 2. Download the following models:
 
-   a. [deploy.prototxt](https://github.com/kr1shnasomani/Maskify/blob/main/model/deploy.prototxt)
+   a. [deploy.prototxt](https://github.com/kr1shnasomani/Facetronix/blob/main/Maskify/model/deploy.prototxt)
 
-   b. [res10_300x300_ssd_iter_140000.caffemodel](https://github.com/kr1shnasomani/Maskify/blob/main/model/res10_300x300_ssd_iter_140000.caffemodel)
+   b. [res10_300x300_ssd_iter_140000.caffemodel](https://github.com/kr1shnasomani/Facetronix/blob/main/Maskify/model/res10_300x300_ssd_iter_140000.caffemodel)
 
-   c. [model.h5](https://github.com/kr1shnasomani/Maskify/blob/main/model/model.h5)
+   c. [model.h5](https://github.com/kr1shnasomani/Facetronix/blob/main/Maskify/model/model.h5)
 
 3. Enter the path of the image and the location where you want to save the output.
 
@@ -23,11 +23,11 @@ This script detects faces in an image using a Caffe model and predicts mask usag
 
   Input Image:
 
-  ![image](https://github.com/user-attachments/assets/f100ab3a-2694-450f-9308-ca42d17223a2)
+  ![image](https://github.com/user-attachments/assets/a18bbc51-fd04-4a53-ba6e-0105a4278928)
 
   Output Image:
 
-  ![output](https://github.com/user-attachments/assets/8fba4ee2-8bc0-41cc-81e2-a48b86153c8c)
+  ![output](https://github.com/user-attachments/assets/ae105c89-404f-404a-9367-1116bb3f77d9)
 
 ## Overview:
 This Python script implements a face mask detection system using deep learning and OpenCV. Below is an organized explanation of the components and workflow:
