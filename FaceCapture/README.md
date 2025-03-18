@@ -15,17 +15,17 @@ This script detects faces in an image using a Haar cascade classifier, draws bou
 
    Input Image:
 
-   ![image](https://github.com/user-attachments/assets/edf8187e-7ef7-4382-865d-3148a48a135d)
+   ![image](https://github.com/user-attachments/assets/e0689480-34ab-40bb-ba8b-a16ce25b1112)
 
    Output Image:
 
    a. `boundingbox.jpg`
 
-   ![boundingbox](https://github.com/user-attachments/assets/b84fdd1b-c7ce-485c-abfd-578a029ea6c2)
+   ![boundingbox](https://github.com/user-attachments/assets/bbc0cc97-bae5-47f9-964f-57a7cc080420)
 
    b. `croppedface.jpg`
 
-   ![croppedface](https://github.com/user-attachments/assets/99dd9dbb-b3a7-4646-b458-ce16743df22d)
+   ![croppedface](https://github.com/user-attachments/assets/5f0a3434-e4b6-442e-be18-36e471931c8d)
 
 ## Overview:
 This code demonstrates a face detection and visualization pipeline using OpenCV's Haar Cascade Classifier. Below is a structured overview:
