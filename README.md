@@ -39,7 +39,7 @@ Facetronix/
 │   ├── model/
 │   │   ├── deploy.prototxt
 │   │   ├── model.h5
-│   │   └── res10_300x300_ssd_iter_1400...
+│   │   └── res10_300x300_ssd_iter_140000.caffemodel
 │   ├── result/
 │   │   └── output.jpg
 │   └── README.md
