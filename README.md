@@ -8,6 +8,7 @@
 |------|-------------|
 | [FaceCapture](https://github.com/kr1shnasomani/Facetronix/tree/main/FaceCapture) | This script detects faces in an image using a Haar cascade classifier, draws bounding boxes around detected faces, saves the result, and generates a grid of cropped, resized faces using Matplotlib. It handles multiple faces and saves outputs to specified paths. |
 | [FaceFeel](https://github.com/kr1shnasomani/Facetronix/tree/main/FaceFeel) | This project involves building a Convolutional Neural Network (CNN) for facial emotion recognition using the FER-2013 dataset. It preprocesses images, trains the model, evaluates accuracy, visualizes performance and includes a prediction function to classify emotions from images with confidence scores. |
+| [GenAgeNet](https://github.com/kr1shnasomani/Facetronix/tree/main/GenAgeNet) | This project implements an age and gender prediction system using OpenCV's deep learning module. It detects faces in an image, identifies gender as 'Male' or 'Female,' and estimates the age range. The model employs pre-trained DNN models for accurate predictions and overlays results directly on the image. |
 | [Maskify](https://github.com/kr1shnasomani/Facetronix/tree/main/Maskify) | This script detects faces in an image using a Caffe model and predicts mask usage with a Keras classifier. It annotates faces with bounding boxes and labels ("Mask" or "No Mask") based on predictions, saving the annotated image to a specified path. |
 
 ## Repository Structure:
@@ -27,6 +28,21 @@ Facetronix/
 │   │   └── main.ipynb
 │   ├── model/
 │   │   └── model.keras
+│   └── README.md
+├── Maskify/
+│   ├── code/
+│   │   └── main.py
+│   ├── dataset/
+│   │   └── image.jpg
+│   ├── model/
+│   │   ├── age_deploy.prototxt
+│   │   ├── age_net.caffemodel 
+│   │   ├── gender_deploy.prototxt
+│   │   ├── gender_net.caffemodel
+│   │   ├── opencv_face_detector_uint8.pb
+│   │   └── opencv_face_detector.pbtxt
+│   ├── result/
+│   │   └── output.jpg
 │   └── README.md
 ├── Maskify/
 │   ├── code/
