@@ -13,7 +13,6 @@
 ## Repository Structure:
 ```
 Facetronix/
-│
 ├── FaceCapture/
 │   ├── code/
 │   │   └── main.py
@@ -23,14 +22,12 @@ Facetronix/
 │   │   ├── boundingbox.jpg
 │   │   └── croppedface.jpg
 │   └── README.md
-│
 ├── FaceFeel/
 │   ├── code/
 │   │   └── main.ipynb
 │   ├── model/
 │   │   └── model.keras
-|   └── README.md
-|
+│   └── README.md
 ├── Maskify/
 │   ├── code/
 │   │   └── main.py
@@ -43,6 +40,5 @@ Facetronix/
 │   ├── result/
 │   │   └── output.jpg
 │   └── README.md
-|
 └── README.md
 ```
