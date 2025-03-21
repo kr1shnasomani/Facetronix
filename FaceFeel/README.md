@@ -15,25 +15,25 @@ This project involves building a Convolutional Neural Network (CNN) for facial e
 
 ## Accuracy & Loss Over Epochs:
 
-![image](https://github.com/user-attachments/assets/e964b015-0a9a-4a42-86d3-0ce0aac2c6de)
+![image](https://github.com/user-attachments/assets/1cd31704-f871-4e0e-9522-d87cd1be72c8)
 
-![image](https://github.com/user-attachments/assets/b8bee9f3-74f6-4582-b896-749452a529d2)
+![image](https://github.com/user-attachments/assets/8453d9ec-0bc6-449f-bab1-3314f2f30938)
 
 ## Model Prediction:
 
-   ![image](https://github.com/user-attachments/assets/4ff75e7e-3c36-4f8c-b1d0-13ea65d6ecbf)
+   ![image](https://github.com/user-attachments/assets/d1042e88-d57e-4323-9158-e8bfd8f28afb)
 
-   ![image](https://github.com/user-attachments/assets/3a3863e0-24c7-41ce-9f4e-169e846e6f93)
+   ![image](https://github.com/user-attachments/assets/a86bae83-f952-409c-86ce-8b609c9c4799)
 
-   ![image](https://github.com/user-attachments/assets/92b42c59-ee92-4c9b-8adb-5cd66eda3d1a)
+   ![image](https://github.com/user-attachments/assets/f992c28a-f371-4f1f-ac0e-23dee50791cb)
 
-   ![image](https://github.com/user-attachments/assets/390e1f75-47a0-4053-b7c9-704366c38978)
+   ![image](https://github.com/user-attachments/assets/b37c69ec-6980-4f7c-b449-afc7d53694c0)
 
-   ![image](https://github.com/user-attachments/assets/2ee52932-70d5-4cb0-89c5-d815290ffe4f)
+   ![image](https://github.com/user-attachments/assets/2bdb9414-f0f0-4aee-8bc5-cff9dc9a139a)
 
-   ![image](https://github.com/user-attachments/assets/9213e088-7684-4ad7-aa8e-357d81d45713)
+   ![image](https://github.com/user-attachments/assets/daed61d3-2219-4cee-9022-d1977c4d0cce)
 
-   ![image](https://github.com/user-attachments/assets/3c9ae004-a7fc-49fc-bf02-8af4b5873759)
+   ![image](https://github.com/user-attachments/assets/80d400bb-3e97-4594-be35-928d20f8f362)
 
 ## Overview:
 The code is used for building, training and evaluating a Convolutional Neural Network (CNN) model for facial emotion recognition using the FER-2013 dataset. Here's an overview of the various steps and components involved:
